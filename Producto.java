@@ -24,8 +24,6 @@ public class Producto {
 		return cantidad;
 	}
 
-/*modificiacion......!!!!!!!!*/
-
 	@Override
 	public String toString() {
 		return " - " + nombre + ", unidades: " + cantidad;
