@@ -11,7 +11,7 @@ public class Producto {
 		this.cantidad = cantidad;
 	}
 	
-	
+	/* Esta es una modificación que hago yo: LUUUUUUUUUUUUURRRRRRRRRRRRRRRRRR */
 
 	public String getNombre() {
 		return nombre;
